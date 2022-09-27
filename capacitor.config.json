@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "search-images",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

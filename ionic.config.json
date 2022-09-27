@@ -1,0 +1,8 @@
+{
+  "name": "search-images",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7f9ebbed"
+}
